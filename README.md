@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Valentine's Day Interactive Website (CodeKage)
 
 A cute, interactive web page to ask someone to be your Valentine. Features playful button mechanics, heartwarming GIFs, and heart-shaped confetti.
@@ -71,3 +72,7 @@ Contributions are welcome! Whether it's new GIF suggestions, design tweaks, or c
 Open source under the [MIT License](LICENSE).
 
 Happy Valentine's Day! ❤️
+=======
+# say-yes-please-
+kay crush
+>>>>>>> afb7dd86b30fa091c49e5217c5e98fe1408be35b
