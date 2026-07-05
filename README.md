@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # Valentine's Day Interactive Website (CodeKage)
-
+# Say Yes Please 💖
 A cute, interactive web page to ask someone to be your Valentine. Features playful button mechanics, heartwarming GIFs, and heart-shaped confetti.
 
 ## How It Works
